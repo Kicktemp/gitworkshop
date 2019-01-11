@@ -3,7 +3,7 @@ exports.dialog = {
     type: 'ModalAlert',
     options: {
       markdowns: [
-        '## Willkommen bei Learn Git Branching!',
+        '## Willkommen bei Git Workshop Joomla!Day.',
         '',
         'Der Sinn dieser Anwendung ist, die umfangreichen und komplexen Zusammenhänge der Prozesse, die bei der Arbeit mit Git ablaufen, zu verdeutlichen. Ich hoffe du hast Spaß dabei und lernst vielleicht sogar etwas!',
         '',
@@ -11,11 +11,11 @@ exports.dialog = {
         '',
         'Falls du die Demonstration noch nicht gesehen hast, schau sie dir hier an:',
         '',
-        '[https://pcottle.github.io/learnGitBranching/?demo](https://pcottle.github.io/learnGitBranching/?demo)',
+        '[https://gitworkshop.kicktemp.com/?demo](https://gitworkshop.kicktemp.com/?demo)',
         '',
         'Genervt von diesem Fenster? Häng `?NODEMO` an die URL um es los zu werden, so wie hier:',
         '',
-        '[https://pcottle.github.io/learnGitBranching/?NODEMO](?NODEMO)'
+        '[https://gitworkshop.kicktemp.com/?NODEMO](?NODEMO)'
       ]
     }
   }, {
