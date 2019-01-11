@@ -236,8 +236,8 @@ exports.strings = {
   ///////////////////////////////////////////////////////////////////////////
   'learn-git-branching': {
     '__desc__': 'The title of the app, with spaces',
-    'en_US': 'Learn Git Branching',
-    'de_DE': 'Learn Git Branching'
+    'en_US': 'Git Workshop Joomla!Day',
+    'de_DE': 'Git Workshop Joomla!Day'
   },
   ///////////////////////////////////////////////////////////////////////////
   'select-a-level': {
@@ -500,20 +500,19 @@ exports.strings = {
   'goal-only-master': {
     '__desc__': 'the helper message for the window that shows the goal tree when the goal will only be compared using the master branch',
     'en_US': '<span class="fwber">Note:</span> Only the master branch will be checked in this level. The other branches are simply for reference (shown as dashed labels below). As always, you can hide this dialog with "hide goal"',
-    'fr_FR': '<span class="fwber">Note:</span> Dans ce niveau on ne doit faire de git checkout que sur la branche master. Les autres branches représentées ici (entourées d\'un cadre en tirets) doivent être utilisées uniquement comme références. Comme toujours, vous pouvez cacher cette fenêtre avec "Cacher les objectifs"',
     'de_DE': '<span class="fwber">Hinweis:</span> In diesem Level wird nur der Branch master geprüft. Die anderen Branches dienen nur als Vergleichsbasis (als gestrichelte Bezeichner dargestellt). Wie immer kannst du diese Meldung mit "hide goal" ausblenden'
   },
   ///////////////////////////////////////////////////////////////////////////
   'hide-goal': {
     '__desc__': 'the helper message for the window that shows the goal tree',
     'en_US': 'You can hide this window with "hide goal"',
-    'de_DE': 'Du kannst diese Meldung mit "hide goal" ausblenden',
-    'ko': '"hide goal"을 사용하여 이 창을 숨길 수 있습니다.'
+    'de_DE': 'Du kannst diese Meldung mit "hide goal" ausblenden'
   },
   ///////////////////////////////////////////////////////////////////////////
   'hide-start': {
     '__desc__': 'The helper message for the window that shows the start tree for a level',
-    'en_US': 'You can hide this window with "hide start"'
+    'en_US': 'You can hide this window with "hide start"',
+      'de_DE': 'Du kannst diese Meldung mit "hide start" ausblenden'
   },
   ///////////////////////////////////////////////////////////////////////////
   'level-builder': {
